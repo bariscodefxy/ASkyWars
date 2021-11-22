@@ -1,0 +1,6 @@
+---
+name: ASkyWars
+version: 0.0.1
+main: bariscodefx\ASkyWars\Main
+api: 3.25.4
+...
